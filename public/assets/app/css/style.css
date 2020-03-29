@@ -1,0 +1,15 @@
+.qrc-item{
+  padding-top: 1rem;
+  padding-left: 2rem;
+}
+
+.qrc-item-line{
+  line-height: 0.5rem;
+}
+
+.qrc-item-name{
+
+}
+.qrc-item-name > span{
+    font-style: bold;
+}
